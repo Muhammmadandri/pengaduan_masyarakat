@@ -1,0 +1,12 @@
+Masyarakat :
+1. kimsty
+
+Petugas :
+1. fynnn(Admin)
+2. rynn(Petugas)
+
+Password All : "qwerty"
+
+Kekurangan fitur:
+1. Di bagian tanggapan, pada saat admin atau petugas memberikkan tanggapan ke pengaduan si A; tanggapan tersebut masih bisa dilihat oleh pengguna atau akun yang lain.
+2. Di bagian pengaduan; di fitur proses saya tidak bisa membuat agar yang dpt mengubahnya hanya petugas, padalah syntax yang saya gunakan sudah tepat menurut saya; jadi sementara saya menggunakan "!==" agar bisa diakses petugas serta admin dan agar masyarakat tidak bs mengaksesnya.
